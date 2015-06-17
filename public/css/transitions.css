@@ -1,0 +1,21 @@
+.social_icon.footer ul li a i,
+.social_icon.footer ul li a i:hover,
+.sf-menu li li a,
+.info_hover,
+.item_services:hover .info_hover,
+.single_post .tags li a:hover,
+.single_post .tags li a,
+.single_post img,
+.single_post img:hover,
+.single_post .comments h3 a,
+.single_post .comments h3 a:hover,
+.single_post .reply,
+.single_post .reply:hover,
+.hover_img_blog,
+.item_blog:hover .hover_img_blog{	
+	-webkit-transition: 0.3s all ease;
+	-moz-transition: 0.3s all ease;
+	-o-transition: 0.3s all ease;
+	-ms-transition: 0.3s all ease;
+	transition: 0.3s all ease;
+}

@@ -1,0 +1,88 @@
+a:hover,
+.sf-menu li span,
+.ch-info h2,
+.ch-info a,
+.about_text p, .about_text2 p,
+.specialize a i,
+.about_testimonial p,
+.sf-menu li li a:hover,
+.social_icon.footer ul li a i:hover,
+.single_post ul li a,
+.single_post ul li p span,
+.single_post .tags li a:hover,
+.author_about a,
+.single_post .comments h3 a:hover,
+.sidebar_post span a,
+.page_error h1 i,
+.tabs a,
+.tooltip-hover a,
+.lead a{
+	color: #f47416;
+}
+
+.color,
+#theme-options .title,
+#theme-options .title span,
+#theme-options .layout-style li.active,
+.info_hover,
+.form-contact input[type="submit"],
+.btn-default:hover,
+.btn-primary:hover,
+.btn-default:focus,
+.single_post .reply:hover,
+.form_contact input[type="submit"],
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus
+{
+	background-color: #f47416;
+}
+.contact_us .btn-default,
+.btn-primary, .btn-primary:hover{	
+	background-image: linear-gradient(to bottom, #f47416 0%, #f47416 100%);
+}
+.btn-primary, .btn-primary:hover,
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus
+{
+	border-color: #f47416;
+}
+.divider_light,
+.divider_light.line,
+.about_testimonial{
+	border: 1px solid #f47416;
+}
+
+.social_icon ul li,
+.border_right{
+	border-right: 1px solid #f47416;
+}
+.border_bottom{
+	border-bottom: 1px solid #f47416;	
+}
+.logo_small{
+	background: url(../../../img/logo.png) no-repeat;
+}
+.logo_big{
+	background: url(../../../img/logo-big.png) no-repeat;
+}
+.pattern_top{
+	background: url(../../../img/pattern_top.png) repeat-x;
+}
+.pattern_bottom{
+	background: url(../../../img/pattern_bottom.png) repeat-x;
+}
+.accordion-trigger.active, .accordion-trigger:hover {
+	background: #f47416 url(../../../../img/toggle.png) no-repeat right -69px;
+}
+.accordion-trigger.active, .accordion-trigger:hover {
+	background: #f47416 url(../../../img/toggle.png) no-repeat right -69px;
+}
+
+@media handheld, only screen and (max-width: 600px) {
+	.about_testimonial{
+		border: 0 none; 
+	}
+}
+@media handheld, only screen and (max-width: 320px) {
+	.logo_big{
+		background: url(../../../img/logo.png) no-repeat;
+	}
+}
